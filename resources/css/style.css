@@ -16,7 +16,17 @@ h2 {
     color: white;
 }
 
+p {
+    font-size: 21px;
+    color: gray;
+}
 
+#download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
 
-
-
+#copy-right {
+    text-align: right;
+    color: gray;
+}
